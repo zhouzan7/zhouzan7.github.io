@@ -4,5 +4,6 @@ description: |
   Welcome to Zane's GitHub Pages.<br>
   This is a test page.
 show_downloads: false
+github: false
 google_analytics:
 theme: jekyll-theme-minimal
