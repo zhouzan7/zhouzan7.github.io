@@ -1,6 +1,8 @@
 title: Zane
 logo: /assets/img/logo.jpg
-description: Welcome to Zane's GitHub Pages.
+description: |
+Welcome to Zane's GitHub Pages.
+This is a test content.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
